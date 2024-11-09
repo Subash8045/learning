@@ -1,0 +1,4 @@
+1. write calculator program
+
+input -> 2 numbers and operation in this formart (+,*,-,/)
+
