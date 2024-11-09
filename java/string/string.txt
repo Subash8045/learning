@@ -1,0 +1,18 @@
+1.reverse the string
+2.Find hoe many times "a" in given string
+3.Find how many vowels in string
+
+4.check what is StringBuilder and StringBuffer
+5.check string formart in java
+
+6.Java string library has many inbulilt method .. explore all
+
+7.Take array of string as input and sort them Lexigographical order
+
+8.Check if a String is a Rotation of Another String
+	input - > ABCD , DCBA 
+	output -> true
+
+9.take input as lower case and convert them to its upper case (dont use inbult method)
+
+	
