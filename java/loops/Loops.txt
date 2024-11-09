@@ -1,0 +1,63 @@
+1. Find Max in given list
+2. sum of the given list
+3. product of the given list
+4. sum of the given list in odd postions only
+5. Factorial of a Number
+
+// if logic dont know refer internet and implement urself
+
+6.Fibonacci Sequence
+7.check given number is prime or not
+8.reverse the number (dont use string.. )
+9.Find GCD of a number
+
+//try urself
+
+9.Count Digits of a Number
+10.check given number is plaindrome
+11. bubble sort
+12 binary search 
+
+//patterns
+
+*
+**
+***
+****
+
+
+  *
+ * * 
+* * *
+
+ *
+  **
+   ***
+    ****
+     *****
+
+  1
+ 1 2
+1 2 3
+
+*   *
+ * *
+  *
+ * *
+*   *
+
+
+*
+ **
+  ***
+   ****
+    *****
+   ****
+  ***
+ **
+*  
+
+// Types of loops
+
+1.try sample program urself for all types of loops in java
+2.try to use all loop control statements (break and continue)
