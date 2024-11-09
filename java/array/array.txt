@@ -1,0 +1,19 @@
+1. Decalare a Array 
+   - initalise array with some values
+   - get input from user and save in array
+   - initalise array with default value
+
+2. Array.length method
+
+3. Copy one array elements to other array
+   - Library method
+   - write your own method
+
+4. Multi dimensional array
+
+5. Matrix multiplication
+
+6. check what is ArrayList and do above 3 with arraList also
+
+7. There is Arrays Library ..check its inbuilt method
+
