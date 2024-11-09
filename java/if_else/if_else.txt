@@ -1,0 +1,21 @@
+1. Desgin a Password authentication
+input - password
+
+2. Current bill calculator
+
+100 units - 10rs / unit
+101 -> 200 units - 20 / unit
+201 -> 300 units - 30 / unit
+more than 300 - 35/ unit
+
+input - no of units
+output - caculated price
+
+3. Check Given year is leap year or not
+
+4. 
+print 3 if number is divided by 3
+print 5 if number is divided by 5
+print both if number is divided by 5 and 3
+
+
